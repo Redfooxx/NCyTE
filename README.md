@@ -18,5 +18,11 @@ The Virtual Cybersecurity Career Challenge offers college students hands-on cybe
 - Deploy penetration testing to analyze the network for evidence of attacks or compromise.
 
 **Project Milestones**
+<details>
+  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
 
+Section1:
+1. Install Suricata.
+   
+</details>
 **Project Certificate**
