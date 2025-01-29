@@ -16,3 +16,7 @@ The Virtual Cybersecurity Career Challenge offers college students hands-on cybe
 - Operate a network of nine devices within specific technical requirements.
 - Defend the network against a penetration test. 
 - Deploy penetration testing to analyze the network for evidence of attacks or compromise.
+
+**Project Milestones**
+
+**Project Certificate**
