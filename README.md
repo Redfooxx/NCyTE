@@ -19,6 +19,54 @@ The Virtual Cybersecurity Career Challenge offers college students hands-on cybe
 
 **Project Milestones**
 <details>
+  <summary><b>Gantt Chart</b></summary>
+
+Section1:
+1. Install Suricata.
+   
+</details>
+
+<details>
+  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+
+Section1:
+1. Install Suricata.
+   
+</details>
+
+<details>
+  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+
+Section1:
+1. Install Suricata.
+   
+</details>
+
+<details>
+  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+
+Section1:
+1. Install Suricata.
+   
+</details>
+
+<details>
+  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+
+Section1:
+1. Install Suricata.
+   
+</details>
+
+<details>
+  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+
+Section1:
+1. Install Suricata.
+   
+</details>
+
+<details>
   <summary><b>SECTION 1: Suricata and Evebox</b></summary>
 
 Section1:
