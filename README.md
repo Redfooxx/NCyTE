@@ -27,7 +27,7 @@ Section1:
 </details>
 
 <details>
-  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+  <summary><b>Network Design</b></summary>
 
 Section1:
 1. Install Suricata.
@@ -35,7 +35,7 @@ Section1:
 </details>
 
 <details>
-  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+  <summary><b>Network Design</b></summary>
 
 Section1:
 1. Install Suricata.
