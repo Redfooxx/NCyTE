@@ -21,57 +21,54 @@ The Virtual Cybersecurity Career Challenge offers college students hands-on cybe
 <details>
   <summary><b>Gantt Chart</b></summary>
 
-Section1:
-1. Install Suricata.
-   
+  ![image](https://github.com/user-attachments/assets/3ba53663-cd56-4143-94f1-62bed44d8779)
+  ![image](https://github.com/user-attachments/assets/e8cc8a26-348f-4c1e-b305-94d1aad404bc)
+
 </details>
 
 <details>
   <summary><b>Network Design</b></summary>
+  
+![image](https://github.com/user-attachments/assets/28411d7e-8d2f-43c2-9509-0d44d01886c8)
 
-Section1:
-1. Install Suricata.
-   
 </details>
 
 <details>
   <summary><b>Business Website</b></summary>
 
-Section1:
-1. Install Suricata.
    
 </details>
 
 <details>
   <summary><b>Email Server Setup</b></summary>
 
-Section1:
-1. Install Suricata.
+  ![image](https://github.com/user-attachments/assets/13c80813-0947-41dc-9a6d-4d9a264c2ea2)
    
 </details>
 
 <details>
   <summary><b>Cyber Security Evaluation Tool (CSET)</b></summary>
 
-Section1:
-1. Install Suricata.
-   
+![image](https://github.com/user-attachments/assets/4618a5b6-ee77-45f1-8a98-c81d68677985)
+
+![image](https://github.com/user-attachments/assets/382468a3-f7c3-4191-8bab-fdb252d61cb8)
+
+![image](https://github.com/user-attachments/assets/c5867c8e-778c-4bb4-980a-6705a7e12e6c)
+
 </details>
 
 <details>
   <summary><b>Pentest Analysis</b></summary>
 
-Section1:
-1. Install Suricata.
+![image](https://github.com/user-attachments/assets/6b37d3bd-bf21-45c8-afeb-cc35283fc814)
    
 </details>
 
 <details>
   <summary><b>Orange Team</b></summary>
 
-Section1:
-1. Install Suricata.
-   
+![image](https://github.com/user-attachments/assets/c3a5a740-8235-43ea-8300-1e9dcfd97993)
+
 </details>
 
 **Project Certificate**
