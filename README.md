@@ -35,7 +35,7 @@ Section1:
 </details>
 
 <details>
-  <summary><b>Network Design</b></summary>
+  <summary><b>Business Website</b></summary>
 
 Section1:
 1. Install Suricata.
@@ -43,7 +43,7 @@ Section1:
 </details>
 
 <details>
-  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+  <summary><b>Email Server Setup</b></summary>
 
 Section1:
 1. Install Suricata.
@@ -51,7 +51,7 @@ Section1:
 </details>
 
 <details>
-  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+  <summary><b>Cyber Security Evaluation Tool (CSET)</b></summary>
 
 Section1:
 1. Install Suricata.
@@ -59,7 +59,7 @@ Section1:
 </details>
 
 <details>
-  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+  <summary><b>Pentest Analysis</b></summary>
 
 Section1:
 1. Install Suricata.
@@ -67,10 +67,11 @@ Section1:
 </details>
 
 <details>
-  <summary><b>SECTION 1: Suricata and Evebox</b></summary>
+  <summary><b>Orange Team</b></summary>
 
 Section1:
 1. Install Suricata.
    
 </details>
+
 **Project Certificate**
