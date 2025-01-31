@@ -72,7 +72,6 @@ https://github.com/user-attachments/assets/67cc9fc1-2f60-4442-9d2d-41251fbc6058
 
 </details>
 
-**Project Certificate**
-
 [NCyTE Certificate](https://github.com/Redfooxx/NCyTE/blob/main/1%20Andre%20L.%20Castillo%20NCyTE%20Certificate.pdf) 
+
 
